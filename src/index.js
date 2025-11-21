@@ -12,8 +12,8 @@ root.render(
     <Router>
       <Banner />
         <Routes>
-          <Route path="/" element={<App />} />
-          <Route path="/projet/:id" element={<Projets />}/>
+          <Route path="openclassroom-projet-8/" element={<App />} />
+          <Route path="openclassroom-projet-8/projet/:id" element={<Projets />}/>
         </Routes>
     </Router>
   </React.StrictMode>

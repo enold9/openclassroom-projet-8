@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/openclassroom-projet-8/static/css/main.655c7c3f.css",
+    "main.js": "/openclassroom-projet-8/static/js/main.5f1ec67c.js",
+    "static/media/unnamed.webp": "/openclassroom-projet-8/static/media/unnamed.6a3c3d02d8c8a072c59c.webp",
+    "index.html": "/openclassroom-projet-8/index.html",
+    "main.655c7c3f.css.map": "/openclassroom-projet-8/static/css/main.655c7c3f.css.map",
+    "main.5f1ec67c.js.map": "/openclassroom-projet-8/static/js/main.5f1ec67c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655c7c3f.css",
+    "static/js/main.5f1ec67c.js"
+  ]
+}

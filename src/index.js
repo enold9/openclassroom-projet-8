@@ -13,7 +13,7 @@ root.render(
       <Banner />
         <Routes>
           <Route path="/" element={<App />} />
-          <Route path="/projet/:pageNumber" element={<Projets />}/>
+          <Route path="/projet/:id" element={<Projets />}/>
         </Routes>
     </Router>
   </React.StrictMode>

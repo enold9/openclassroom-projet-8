@@ -1,0 +1,53 @@
+[
+    {
+        "id": "aizeufh",
+        "title": "Booki",
+        "description": "Création de la page d'accueil d'une agence de voyage avec HTML & CSS",
+        "images": [
+            "/images/booki1.png",
+            "/images/booki2.png",
+            "/images/booki3.png"
+        ]
+    },
+    {
+        "id": "amoifj",
+        "title": "Sophie Bluel",
+        "description": "Création d'une page web dynamique avec JavaScript",
+        "images": [
+            "/images/sophie1.png",
+            "/images/sophie2.png",
+            "/images/sophie3.png",
+            "/images/sophie4.png"
+        ]
+    },
+    {
+        "id": "porsufq",
+        "title": "Nina Carducci",
+        "description": "Débuggage et optimisation d'un site de photographe",
+        "images": [
+            "/images/nina1.png",
+            "/images/nina2.png",
+            "/images/nina3.png"
+        ]
+    },
+    {
+        "id": "amzpoeri",
+        "title": "Kasa",
+        "description": "Création d'une application web de location immobilière avec React",
+        "images": [
+            "/images/kasa1.png",
+            "/images/kasa2.png",
+            "/images/kasa3.png"
+        ]
+    },{
+        "id": "fgyufgy",
+        "title": "Mon vieux grimoire",
+        "description": "Développement du back-end d'un site de notation de livres",
+        "images": [
+            "/images/grimoire1.png",
+            "/images/grimoire2.png",
+            "/images/grimoire3.png",
+            "/images/grimoire4.png"
+        ]
+    }
+]
